@@ -41,9 +41,9 @@ Reclassifies all the categories in which an article is published to classical ne
 <li> to_delete.bin </li
  <p></p>
 <b> OUTPUT FILES:</b>  Dataframe with all the articles per news outlet as csv
- <p></p>
+<p></p>
 Standard data cleaning process. Not to be mistaken with text preprocessment in an NLP way of understanding.
-
+<br>
 <p></p>
  
 ### 4-data-cleaning-comments
@@ -51,9 +51,9 @@ Standard data cleaning process. Not to be mistaken with text preprocessment in a
 <li> csv-file(s) of the comments </li>
 <li> ressorts_cat.bin </li>
 <li> to_delete.bin </li
- <p></p>
-<b> OUTPUT FILES:</b>  Dataframe with all the comments per news outlet as csv
- <p></p>
+<p></p>
+<b> OUTPUT FILES:</b>  Dataframe with all the comments per news outlet as csv.
+<p></p>
 Standard data cleaning process. Not to be mistaken with text preprocessment in an NLP way of understanding.
 
 
