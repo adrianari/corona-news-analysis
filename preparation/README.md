@@ -42,7 +42,7 @@ Reclassifies all the categories in which an article is published to classical ne
  <p></p>
 <b> OUTPUT FILES:</b>  Dataframe with all the articles per news outlet as csv
 <p></p>
-Standard data cleaning process. Not to be mistaken with text preprocessment in an NLP way of understanding.
+Standard data cleaning process. Not to be mistaken with text preprocessment in an NLP way of understanding. After this step, the single article csv were manually loaded into a mariadb-database.
 <br>
 <p></p>
  
