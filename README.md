@@ -44,8 +44,8 @@ Reclassifies all the categories in which an article is published to classical ne
  <p></p>
 Standard data cleaning process. Not to be mistaken with text preprocessment in an NLP way of understanding.
 
- <p></p>
-
+<p></p>
+ 
 ### 4-data-cleaning-comments
 <b>INPUT FILES:</b> 
 <li> csv-file(s) of the comments </li>
