@@ -55,5 +55,12 @@ Standard data cleaning process. Not to be mistaken with text preprocessment in a
 <b> OUTPUT FILES:</b>  Dataframe with all the comments per news outlet as csv.
 <p></p>
 Standard data cleaning process. Not to be mistaken with text preprocessment in an NLP way of understanding.
+<br>
+<p></p>
 
+### 5-comment-filtering
+<b>INPUT FILES</b>: all article and comment data
+<b>OUTPUT FILES</b>: comments
+
+Matches all comments to the articles. If the article belonging to the comment was not scraped (e.g. due to loading error in the scraping process), comment gets disregarded at this point.
 
