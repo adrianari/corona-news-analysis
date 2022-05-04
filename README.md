@@ -1,4 +1,4 @@
-# Master Thesis
+# Corona news analysis in Switzerland in 2020
 
 This repository looks at the reporting and comments in Swiss online news media during the coroanvirus pandemic in 2020.
 
